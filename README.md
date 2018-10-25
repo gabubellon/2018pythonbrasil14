@@ -24,6 +24,7 @@ Todo contéudo aqui listado é de propriedade de seus criadores, sendo os mesmos
 
 * **Estrutura de Dados é ❤** *Fernando Masanori - Docente da FATEC São José dos Campos*
 
+----
 ## DIA 19 PALESTRAS
 * **Keynote** - *Daniela Petruzalek - Consultora de Desenvolvimento sênior na Thoughtworks*
 
@@ -31,135 +32,69 @@ Todo contéudo aqui listado é de propriedade de seus criadores, sendo os mesmos
 
 * **Web crawling e scraping com Scrapy e Scrapy Cloud** - `Data Science` - *Lidiane Mayra Taquehara*
 
-* Comunidade e fazer dinheiro, é possível a convivência? - `Pessoas`
-Renzo dos Santos Nuccitelli
-Diretor de Tecnologia na Pricez
+* **Comunidade e fazer dinheiro, é possível a convivência?** - `Pessoas` - *Renzo dos Santos Nuccitelli - Diretor de Tecnologia na Pricez*
 
+* **Envie e Esqueça – Messaging 101** - `Dev` - *Andre Pastore - Co-organizador da Python de Florianopólis*
 
-Envie e Esqueça – Messaging 101 -Dev
-Andre Pastore
-Co-organizador da Python de Florianopólis
+* **Mas afinal, para que serve Análise de Sentimentos?** `Data Science` - *Betina Manoel da Costa - Desenvolvedora na ThoughtWorks*
 
-Mas afinal, para que serve Análise de Sentimentos?Data Science
-Betina Manoel da Costa
-Desenvolvedora na ThoughtWorks
+* **Computação Neuromórfica - dos achados da neurociência a uma nova forma de pensar a computação, usando python.** - `Data Science` - *Caroline Dantas Silva - Organizadora do ABC Women Coders e coorganizadora do SciPy-Sampa*
 
-Computação Neuromórfica - dos achados da neurociência a uma nova forma de pensar a computação, usando python. - Data Science
-Caroline Dantas Silva
-Organizadora do ABC Women Coders e coorganizadora do SciPy-Sampa
+* **The photon - What this particle has to do with building software and living the good life** - `Pessoas` - *Whitney Tennant - Application architect and engineering manager at ViperDe*
 
-The photon - What this particle has to do with building software and living the good life - Pessoas
-Whitney Tennant
-Application architect and engineering manager at ViperDe
+* **AutoML with Python - machine learning made easy(ish)** - `Data Science` - *Leonardo César Teonácio Bezerra - Professor IMD-UFRN*
 
-AutoML with Python - machine learning made easy(ish) - Data Science
-Leonardo César Teonácio Bezerra
-Professor IMD-UFRN
+* **Psicologia X Carreira Profissional: O autoconhecimento a seu favor!** - `Pessoas` - *Hervylla da Costa Almeida - Graduanda em Psicologia e Aspirante a programadora Python*
 
-Psicologia X Carreira Profissional: O autoconhecimento a seu favor! - Pessoas
-Hervylla da Costa Almeida
-Graduanda em Psicologia e Aspirante a programadora Python
+* **O patinho feio developer: o que um conto de fadas pode nos ensinar sobre vida, carreira e sobre escrever um código melhor** - `Pessoas` - *Ivan Carmo da Rocha Neto - Trabalha com a GogiX e ConsumerAffairs*
 
-O patinho feio developer: o que um conto de fadas pode nos ensinar sobre vida, carreira e sobre escrever um código melhor - Pessoas
-Ivan Carmo da Rocha Neto
-Trabalha com a GogiX e ConsumerAffairs
-
-Keynote
-Judite Cypreste
-Repórter no Aos Fatos
+* **Keynote** - *Judite Cypreste - Repórter no Aos Fatos*
 
 ---
 ## DIA 20 PALESTRAS
-Keynote | Painel sobre dados abertos e tecnologias cívicas
-Fernando Masanori, Judite Cypreste, Eduardo Cuducos, Álvaro Justen, Letícia Portella
+* **Keynote | Painel sobre dados abertos e tecnologias cívicas** - *Fernando Masanori, Judite Cypreste, Eduardo Cuducos, Álvaro Justen, Letícia Portella*
 
-Database as a Service com python na globo.com - DevOPS
-Mauro Murari
-Engenheiro de Software na equipe de banco de dados da globo.com
+* **Database as a Service com python na globo.com** - `DevOPS` - *Mauro Murari - Engenheiro de Software na equipe de banco de dados da globo.com*
 
+* **Python packaging sem complicação!** - Dev- Débora Karoline Silva de Azevedo- Cofundadora do PyLadies Natal e Membra do GruPy-RN
 
-Python packaging sem complicação! - Dev
-Débora Karoline Silva de Azevedo
-Cofundadora do PyLadies Natal e Membra do GruPy-RN
+* **Inteligência Artificial aplicada ao mundo jurídico: a vida real longe das BuzzWords!** - Data Science- Rhenan Bartels - Desenvolvedor Python no Ministério Público do Rio de Janeiro
 
-Inteligência Artificial aplicada ao mundo jurídico: a vida real longe das BuzzWords! - Data Science
-Rhenan Bartels
-Desenvolvedor Python no Ministério Público do Rio de Janeiro
+* **Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio** - Data Science - Marcelo Rodrigo dos Santos Andriolli - Desenvolvedor de Software
 
-Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio - Data Science
-Marcelo Rodrigo dos Santos Andriolli
-Desenvolvedor de Software
+* **Cara Gente Branca do RH** - _Pessoas_ - Andreza Alves Rocha - Tech Recruiter na @CWI Software
 
-Cara Gente Branca do RH - Pessoas
-Andreza Alves Rocha
-Tech Recruiter na @CWI Software
+* **print("Você já ensinou Python para uma pessoa hoje?")** - _Pessoas_ - Soraya Roberta dos Santos Medeiros - Pesquisadora em Mineração de Dados Educacionais, mulheres e a atuação na área _tecnológica_
 
-print("Você já ensinou Python para uma pessoa hoje?") - Pessoas
-Soraya Roberta dos Santos Medeiros
-Pesquisadora em Mineração de Dados Educacionais, mulheres e a atuação na área tecnológica
+* **Brasil.IO: Dados abertos para mais democracia** - _Data Science_ - Álvaro Justen - Programador, Professor e Hipnotista
 
-Brasil.IO: Dados abertos para mais democracia - Data Science
-Álvaro Justen
-Programador, Professor e Hipnotista
+* **Prevendo o resultado de partidas de League of Legends com Python** - _Data Science_ - Marcus Vinicius Ferreira Teixeira - Programador Python
 
-Prevendo o resultado de partidas de League of Legends com Python - Data Science
-Marcus Vinicius Ferreira Teixeira
-Programador Python
+* **Como uma modelagem de dados errada pode te dar dor de cabeça e outras lições sobre arquitetura de dados** - _Data Science_ - Felippe da Motta Raposo - Software Engineer at Carta
 
-Como uma modelagem de dados errada pode te dar dor de cabeça e outras lições sobre arquitetura de dados - Data Science
-Felippe da Motta Raposo
-Software Engineer at Carta
-
-Keynote | Production Engineering no Facebook
-Rainer Alves
-Gerente de Production Engineering no Facebook em Londres
+* **Keynote | Production Engineering no Facebook** - Rainer Alves - Gerente de Production Engineering no Facebook em Londres
 
 ---
-## DIA 21 PALESTRAS
+## DIA 21 _PALESTRAS_
 
-Keynote
-Guilherme Vierno
-Full Stack Software Developer na Globo.com
+* Keynote -Guilherme Vierno - Full Stack Software Developer na Globo.com
 
-Que belo dia para a ciência! - Data Science
-Leticia Portella
-Trabalha com a Open Knowledge Foundation e a Operação Serenata de Amor
+* Que belo dia para a ciência! - _Data Science_ - Leticia Portella - Trabalha com a Open Knowledge Foundation e a Operação Serenata de Amor
 
-"Mas dá pra abrir no Excel?" Exportando para txt, csv e JSON com Python - Dev
-Renata D'Avila
-Técnica em Informática e Colaboradora PyLadies Porto Alegre
+* "Mas dá pra abrir no Excel?" Exportando para txt, csv e JSON com Python - _Dev_ - Renata D'Avila - Técnica em Informática e Colaboradora PyLadies Porto Alegre
 
+* Tecnologia cívica: o que importa são as perguntas - _Data Science_ - Eduardo Cuducos - Cofundador da Operação Serenata de Amor
 
-Tecnologia cívica: o que importa são as perguntas - Data Science
-Eduardo Cuducos
-Cofundador da Operação Serenata de Amor
+* Hackeando redes neurais com Python - _Data Science_ - Diogo Felipe Felix de Melo -Desenvolvedor e Pythonista
 
-Hackeando redes neurais com Python - Data Science
-Diogo Felipe Felix de Melo
-Desenvolvedor e Pythonista
+* Python 2 ou Python 3? - Entendendo (finalmente) as diferenças entre as duas versões principais da linguagem - _Dev_ -Yan Orestes Elias - Criador de conteúdo na Alura Cursos Online
 
+* Muito mais que map, filter e reduce - _Dev_ - Eduardo Mendes - Host da Live de Python no youtube
 
-Python 2 ou Python 3? - Entendendo (finalmente) as diferenças entre as duas versões principais da linguagem - Dev
-Yan Orestes Elias
-Criador de conteúdo na Alura Cursos Online
+* Algoritmo Genético com Python - “Fruto do acaso ou de um processo evolutivo?!” - _Data Science_ - Ana Paula Mendes - Pythonista, Pylady e blogger do Ana no Terminal
 
+* Sistemas de Recomendação: From Zero to Hero - _Data Science_ - Betina Manoel da Costa - Desenvolvedora na ThoughtWorks
 
-Muito mais que map, filter e reduce - Dev
-Eduardo Mendes
-Host da Live de Python no youtube
+* Programação Cidadã: dados abertos e o porquê você deveria estar contribuindo - _Data Science_ - Pedro Baesse Alves Pereira - Professor de Sistemas de Informação no IFRN
 
-Algoritmo Genético com Python - “Fruto do acaso ou de um processo evolutivo?!” - Data Science
-Ana Paula Mendes
-Pythonista, Pylady e blogger do Ana no Terminal
-
-Sistemas de Recomendação: From Zero to Hero - Data Science
-Betina Manoel da Costa
-Desenvolvedora na ThoughtWorks
-
-Programação Cidadã: dados abertos e o porquê você deveria estar contribuindo - Data Science
-Pedro Baesse Alves Pereira
-Professor de Sistemas de Informação no IFRN
-
-Keynote
-Betina Manoel
-Desenvolvedora na ThoughtWorks
+* Keynote - Betina Manoel - Desenvolvedora na ThoughtWorks
