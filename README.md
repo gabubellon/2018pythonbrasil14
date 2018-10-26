@@ -10,7 +10,7 @@ Todo contéudo aqui listado é de propriedade de seus criadores, sendo os mesmos
 * [Fotos Oficiais](https://www.flickr.com/photos/pythonbrasil/albums/72157674858185438)
 * [Repo Oficial Talks](https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-14/README.md)
 * [Facebook - Videos](https://www.facebook.com/pg/pythonbrasil/videos/?ref=page`internal)
-* [Canal Youtube](https://www.youtube.com/channel/UCiCQrFh8ckR`LXQyOAsOZiw/)
+* [Canal Youtube](https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw/)
 
 ----
 ## DIA 17 TUTORIAIS
